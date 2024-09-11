@@ -1,0 +1,49 @@
+
+
+.about-us-page {
+    padding: 2rem;
+}
+
+.profile-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.profile-image {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.profile-section h2 {
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.profile-section h4 {
+    margin-bottom: 20px;
+    font-weight: normal;
+    color: #007bff; 
+}
+
+.profile-section p {
+    font-size: 1.1rem;
+    line-height: 1.5;
+}
+
+.mission-icon {
+    margin-bottom: 15px;
+    color: #007bff; 
+}
+
+.text-center h2 {
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.text-center p {
+    margin-bottom: 40px;
+}

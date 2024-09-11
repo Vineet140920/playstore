@@ -1,0 +1,137 @@
+/* ApplicationManager.css */
+
+.container {
+    margin-top: 2rem;
+}
+
+.card {
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.03);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.card-img {
+    height: 150px;
+    object-fit: cover;
+}
+
+.card-body {
+    background-color: #f9f9f9;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.card-text {
+    color: #555;
+}
+
+.card-action {
+    display: flex;
+    justify-content: space-between;
+}
+
+.pagination {
+    margin-top: 2rem;
+}
+
+.modal-header {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.modal-body {
+    padding: 1.5rem;
+}
+
+.modal-footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.btn-custom {
+    border-radius: 20px;
+    font-weight: bold;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+
+.btn-custom:hover {
+    background-color: #0056b3; /* Darker shade on hover */
+    color: #fff;
+}
+
+.filter-input {
+    border-radius: 20px;
+}
+
+.mt-3 {
+    margin-top: 1rem !important;
+}
+
+.pagination {
+    margin-top: 20px;
+}
+
+.modal-header, .modal-footer {
+    background-color: #f8f9fa;
+}
+
+
+.container {
+    padding: 20px;
+}
+
+.filter-input {
+    width: 250px;
+}
+
+.btn-custom {
+    display: flex;
+    align-items: center;
+}
+
+.card-body {
+    position: relative;
+    padding: 20px;
+}
+
+.card-action {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.card-action .btn {
+    display: flex;
+    align-items: center;
+}
+
+.card-action .btn svg {
+    margin-right: 5px;
+}
+
+.pagination {
+    margin-top: 20px;
+}
+
+.modal-header {
+    background-color: #f1f1f1;
+}
+
+.modal-footer {
+    background-color: #f1f1f1;
+}
+
+.icon-large{
+    font-size: 80px;
+   float: right;
+}

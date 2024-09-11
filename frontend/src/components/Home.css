@@ -1,0 +1,58 @@
+.home-page {
+    background-color: #f9f9f9;
+    padding: 20px;
+}
+
+.features-section {
+    margin-top: 50px;
+}
+
+.feature-icon {
+    color: #007bff;
+    margin-bottom: 10px;
+}
+
+.category-card {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.category-card:hover {
+    transform: translateY(-5px);
+}
+
+.text-center h1,
+.text-center h2 {
+    color: #343a40;
+}
+
+.text-center p {
+    color: #6c757d;
+}
+
+#download-section {
+    margin-top: 80px;
+    background-color: #007bff;
+    color: white;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+#download-section h2 {
+    color: white;
+}
+
+#download-section p {
+    color: #f8f9fa;
+}
+
+#download-section .btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+#download-section .btn-success:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+}

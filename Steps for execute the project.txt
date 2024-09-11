@@ -1,0 +1,23 @@
+ Steps for execute the project:
+
+
+step 1: Set up the database in your workbench by importing sqldump available under db folder  change the username and password of database accordingly current username=root ,password=Pkp@2001 .
+
+step 2: Import the  eureka server in eclipse and run as  spring boot app.
+
+step 3: Import the ownerservice which is inside the backend folder, and run as spring boot app.
+step 4: Import the userservice which is inside the backend folder, and run as spring boot app.
+
+
+step 5 : Open the VS code then select open folder by clicking on file and import playstore
+
+step 6: Open the terminal ,run first command "npm install"  for download the node_module. Now to run the project please write the "npm       start" command.
+
+step 7: For login as a user u need to take the username=user12, password=password.
+        For login as a owner u need to take the username=owner, password=password.
+
+
+
+         
+
+
